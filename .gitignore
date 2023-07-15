@@ -1,0 +1,9 @@
+node_modules
+*.log
+npm-debug.log*
+.DS_Store
+.*swp
+
+dist
+out
+src
